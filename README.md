@@ -1,5 +1,7 @@
 # dex-algo
 
+## _Just a simple algo for DEX_
+
 To install dependencies:
 
 ```bash
